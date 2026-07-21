@@ -10,7 +10,7 @@ Place outbound phone calls via the Plivo Voice API.
 ## Setup
 
 1. **Create a Plivo account and get your credentials**:
-   - Sign up or log in at https://cx.plivo.com/?utm_source=github&utm_medium=oss&utm_campaign=gitagent
+   - Sign up or log in at [Plivo console](https://cx.plivo.com/?utm_source=github&utm_medium=oss&utm_campaign=gitagent)
    - Copy your **Auth ID** and **Auth Token** from the dashboard
    - Buy or rent a Plivo phone number to use as the caller ID (`from`)
 
